@@ -94,7 +94,7 @@ public class PrimeNumbers extends JFrame
         frame.add(text,BorderLayout.NORTH);
 
         //Make Frame visible
-        frame.setSize(550,300);
+        frame.setSize(1200,600);
         frame.setVisible(true);
 
 
